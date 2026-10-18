@@ -52,3 +52,6 @@ temp-old-modules/
 # Lockfiles - this repository uses pnpm only (see CONTRIBUTING.md)
 package-lock.json
 yarn.lock
+branch_structure.json
+temp_auto_push.bat
+temp_interactive_push.bat
