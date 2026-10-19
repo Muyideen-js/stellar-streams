@@ -1,0 +1,18 @@
+{
+  "default_branch": "main",
+  "branches": [
+    "main",
+    "origin",
+    "style/fmt-after-267"
+  ],
+  "parent": {
+    "main": null,
+    "origin": "main",
+    "style/fmt-after-267": "main"
+  },
+  "order": [
+    "main",
+    "origin",
+    "style/fmt-after-267"
+  ]
+}
